@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+	font-size:4em;
+}
+
+h2 {
+	color: blue;
+	font-size: 2em;
+}
+ img
+     {
+      height: 10em
+      
+     }
+     #footer-image {
+      height: 10em;
+      width: 10em;
+      border-radius: 5em
+     }
+     #footer-heding{
+      border-top: 0.1em solid #808080
+     } 
+ body 
+        {
+             background: url(fondo.computadora.jpg);
+        }
